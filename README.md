@@ -116,8 +116,7 @@ python scripts/03_overlap_analysis.py
 
 ## Contact
 
-- Nina da Hora: ninadahora@recod.unicamp.br
-- Sandra Avila: sandra@ic.unicamp.br
+- Nina da Hora: ninadhoraa@gmail.com
 
 ## License
 
@@ -232,9 +231,7 @@ python scripts/03_overlap_analysis.py
 
 ## Contato
 
-- Nina da Hora: ninadahora@recod.unicamp.br
-- Sandra Avila: sandra@ic.unicamp.br
-
+- Nina da Hora: ninadhoraa@gmail.com
 ## Licença
 
 Código: Licença MIT, ver arquivo LICENSE.
