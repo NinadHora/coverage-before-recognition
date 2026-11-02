@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "Coverage Before Recognition: Auditing Architectural Erasure in Face Detection"
+authors:
+  - family-names: "da Hora"
+    given-names: "Nina"
+    affiliation: "Institute of Computing, University of Campinas (UNICAMP)"
+  - family-names: "Marini"
+    given-names: "Marisol"
+    affiliation: "University of São Paulo (USP)"
+  - family-names: "Avila"
+    given-names: "Sandra"
+    affiliation: "Institute of Computing, University of Campinas (UNICAMP)"
+preferred-citation:
+  type: conference-paper
+  title: "Coverage Before Recognition: Auditing Architectural Erasure in Face Detection"
+  authors:
+    - family-names: "da Hora"
+      given-names: "Nina"
+    - family-names: "Marini"
+      given-names: "Marisol"
+    - family-names: "Avila"
+      given-names: "Sandra"
+  conference:
+    name: "Brazilian Conference on Intelligent Systems (BRACIS)"
+  year: 2026
+  publisher:
+    name: "Springer Nature Switzerland"
+  volume: 17109
+  start: 608
+  end: 623
+  doi: "10.1007/978-3-032-39904-5_41"

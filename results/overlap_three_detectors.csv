@@ -1,0 +1,12 @@
+category,frames
+Missed by RetinaFace,3432
+Missed by YOLOv11 FT,13307
+Missed by YOLOv12,122
+Missed by all three,99
+Missed by RetinaFace and YOLOv11 FT,3032
+Missed by RetinaFace and YOLOv12,104
+Missed by YOLOv11 FT and YOLOv12,116
+Missed only by RetinaFace,395
+Missed only by YOLOv11 FT,10258
+Missed only by YOLOv12,1
+Missed by at least one detector,13708

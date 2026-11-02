@@ -1,0 +1,11 @@
+detector,paradigm,pretraining,frames,detected,coverage_pct
+Haar Cascades,Hand-crafted features,n/a,196397,181937,92.67
+MTCNN,CNN cascade,WIDER FACE,196397,191492,97.50
+SCRFD,CNN efficient (face),WIDER FACE,196397,192756,98.15
+RetinaFace,CNN + FPN (face),WIDER FACE,196397,192965,98.25
+YOLOv11 FT,CNN single-shot,COCO + CCv2,196397,183090,93.22
+YOLOv11 scratch,CNN single-shot,CCv2 only,196398,194469,99.02
+YOLOv12,CNN + attention,COCO,196397,196275,99.94
+YOLOv12 scratch,CNN + attention,CCv2 only,196398,194548,99.06
+RT-DETR,Transformer,COCO,196397,196243,99.92
+RT-DETR scratch,Transformer,CCv2 only,196397,159173,81.07

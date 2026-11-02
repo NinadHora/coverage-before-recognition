@@ -1,0 +1,9 @@
+gender,monk,age_group,n_frames,missed,coverage_pct
+cis woman,9,56-65,60,56,6.67
+cis man,9,36-45,80,34,57.50
+cis man,5,65+,50,20,60.00
+cis woman,9,46-55,60,19,68.33
+cis man,8,36-45,270,78,71.11
+cis man,3,65+,200,53,73.50
+cis woman,9,26-35,300,73,75.67
+cis woman,8,36-45,390,80,79.49
